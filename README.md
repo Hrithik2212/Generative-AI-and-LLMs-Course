@@ -1,1 +1,1 @@
-# Generative-AI-and-LLMs-Course-by-Bajaj-Finserv
+# Generative-AI-and-LLMs-Course
